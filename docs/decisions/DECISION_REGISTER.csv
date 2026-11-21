@@ -1,0 +1,26 @@
+id,decision,recommended_alpha_resolution,status,severity
+Q01,Speed stat — Remove Speed from alpha or define initiative,Remove,PROPOSED — NEEDS APPROVAL,Critical
+Q02,Turn 1 Quickdraw — Does no-attack-first-turn override Quickdraw?,Global turn-one ban overrides,PROPOSED — NEEDS APPROVAL,Critical
+Q03,Rear-only defense — Does rear block Core and Secure?,Yes; all enemy units block,PROPOSED — NEEDS APPROVAL,Critical
+Q04,Front death — Does rear automatically promote?,Promote after state-based deaths,PROPOSED — NEEDS APPROVAL,Critical
+Q05,Front positioning — Can player choose front/rear at deploy?,"Yes if vacant, with deterministic promotion",PROPOSED — NEEDS APPROVAL,High
+Q06,Mulligan — Shuffle selected cards before replacements?,Return then shuffle using match RNG,PROPOSED — NEEDS APPROVAL,High
+Q07,Hand size — Maximum hand size and overflow?,10; discard at end phase,PROPOSED — NEEDS APPROVAL,High
+Q08,"Reaction — Exactly who receives priority, and when?","Defender then attacker, max one each",PROPOSED — NEEDS APPROVAL,Critical
+Q09,"Combat target invalid — Cancel attack, refund exhaustion?","Cancel, no exhaust unless cost already paid",PROPOSED — NEEDS APPROVAL,Critical
+Q10,Trigger ordering — Who orders simultaneous triggers?,Active player triggers then opponent; stable card instance ordering,PROPOSED — NEEDS APPROVAL,Critical
+Q11,Victory timing — State checks after every atomic event?,After full atomic resolution and death processing,PROPOSED — NEEDS APPROVAL,Critical
+Q12,Simultaneous victory — Double-loss vs draw?,Draw for both simultaneous victory; test tournament policy,PROPOSED — NEEDS APPROVAL,Critical
+Q13,Deckout — Loss if draw attempted with empty deck?,"Yes, even if part of multi-draw",PROPOSED — NEEDS APPROVAL,High
+Q14,Turn cap — How are long games adjudicated?,60 total turns; draw initially,PROPOSED — NEEDS APPROVAL,High
+Q15,Unique relic — Global or per-player uniqueness?,Per-player by definition ID,PROPOSED — NEEDS APPROVAL,High
+Q16,"Salvage — Which discard zone, eligibility, ownership?",Controller-owned units in controller discard,PROPOSED — NEEDS APPROVAL,High
+Q17,Signal effects — Can Signal exceed 8 and bypass Secure cap?,"Yes, effect gain uncapped unless text says otherwise",PROPOSED — NEEDS APPROVAL,High
+Q18,Once-per-turn — Resets on whose turn?,Controller turn unless card says each turn,PROPOSED — NEEDS APPROVAL,High
+Q19,Free card access — What is legal in ranked?,Every definition accessible without NFT ownership,PROPOSED — NEEDS APPROVAL,Critical
+Q20,Balance updates — Are stats immutable vs ruleset-versioned?,Freeze definition per format; publish versioned errata,PROPOSED — NEEDS APPROVAL,Critical
+Q21,Pack randomness — When entropy committed relative to sale?,Must be specified and independently audited,PROPOSED — NEEDS APPROVAL,Critical
+Q22,Redemption atomicity — Can five cards be issued atomically?,No unqualified claim; coordinator reconciliation required,PROPOSED — NEEDS APPROVAL,Critical
+Q23,Card count — 60+24+12+9+6 equals 111?,Yes,PROPOSED — NEEDS APPROVAL,High
+Q24,Rarity semantics — Does rarity affect copy limits?,Definition rarity only; cosmetics never affect legality,PROPOSED — NEEDS APPROVAL,High
+Q25,Action grammar — Are actions and targets machine-readable?,Mandatory before art freeze,PROPOSED — NEEDS APPROVAL,Critical

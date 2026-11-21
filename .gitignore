@@ -1,0 +1,14 @@
+node_modules/
+dist/
+build/
+coverage/
+.next/
+.env
+.env.*
+!.env.example
+*.log
+__pycache__/
+.pytest_cache/
+art/generated/
+art/tmp/
+.DS_Store

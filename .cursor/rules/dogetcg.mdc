@@ -1,0 +1,5 @@
+---
+description: DOGE TCG repository-wide development contract
+alwaysApply: true
+---
+Read AGENTS.md and docs/BUILD_PLAN.md before editing. Existing Dogecoin stack must be reused and verified. Historical blueprint is not normative rules. First milestone: read-only repo audit and deterministic 18-card prototype. Never perform production chain writes or deploy without explicit owner approval. Maintain source-linked evidence for every integration and test claim.
