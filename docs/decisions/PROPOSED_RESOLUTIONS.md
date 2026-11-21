@@ -8,4 +8,4 @@ The register in `DECISION_REGISTER.csv` stays the backlog. These are the calls a
 - Each alpha deck is one copy of the 18 cards. That is a labeled exception to a 30-card deck.
 - Rarity and inscriptions do not change combat numbers.
 - Pack pulls stay on the dogex rule: the hash of the block after the rip. The drop-gate salt shuffle is not the launch rule.
-- Pack sale stays off until a price is chosen and written down.
+- Pack price is 69 Ð. Sale stays off until the Genesis set is inscribed.
