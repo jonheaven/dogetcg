@@ -18,8 +18,8 @@
       "number": 27,
       "title": "Kitsunebi Doge — Midnight Foxfire",
       "role": "chase",
-      "finish": "Deep indigo with turquoise foil flames and glowing vermilion lanterns.",
-      "image": null,
+      "finish": "Turquoise foxfire curls around a black-and-tan Shiba mid-leap. Vermilion shrine lanterns reflect in the wet stone. The foil follows the flames.",
+      "image": "chase/027-midnight-foxfire.jpg",
       "supply": null,
       "odds": null
     },
@@ -29,8 +29,8 @@
       "number": 84,
       "title": "Thunder General — Violet Thunder",
       "role": "chase",
-      "finish": "Violet lightning foil behind the taiko drum, painted from a low angle.",
-      "image": null,
+      "finish": "A cream Shiba stands on a lacquered taiko drum, paw raised. Violet-silver foil follows the lightning bolt.",
+      "image": "chase/084-violet-thunder.jpg",
       "supply": null,
       "odds": null
     }

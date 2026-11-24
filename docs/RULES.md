@@ -16,4 +16,4 @@ Three collector finishes point at gameplay cards. They do not add a fourth copy 
 - `G111-E-027` Kitsunebi Doge — Midnight Foxfire. Plays as `G111-P-027`.
 - `G111-E-084` Thunder General — Violet Thunder. Plays as `G111-P-084`.
 
-A copy serial is separate from the set number. Supply and pull odds stay unset until the mint is designed. The Halo painting is `data/genesis111/chase/001-genesis-halo.jpg`. The other two finishes are specified and still need their own paintings.
+A copy serial is separate from the set number. Supply and pull odds stay unset until the mint is designed. The three foil paintings are `data/genesis111/chase/001-genesis-halo.jpg`, `027-midnight-foxfire.jpg`, and `084-violet-thunder.jpg`.
