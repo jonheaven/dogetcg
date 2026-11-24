@@ -1,16 +1,22 @@
 # ÐogeTCG alpha rules — `dogetcg-alpha-1`
 
-Normative for the free match on `doginals.lol/drops/dogetcg`. The client is `doginals.lol/src/lib/drops/dogetcg/alpha.ts`. A replay is the seed plus the action list. Same seed, same decks.
+Normative for the match on `doginals.lol/drops/dogetcg`. The client is `doginals.lol/src/lib/drops/dogetcg/alpha.ts`. A replay is the seed plus the action list. Same seed, same decks.
+
+This is a short, silly Shiba game. You can win by cracking Core or by holding a lane long enough to reach Signal. Turns stay small. The jokes live in the card names and the pictures.
+
+Leave other Dogecoin card games alone. Do not import their life total, lane count, class names, keyword list, or combat gate. A printed ÐogeTCG card uses these rules.
 
 ## Match
 
-- Two players. Hotseat. Hands are covered between turns. Lanes are public.
+- Two seats. You against the Kennel, or you against another holder on the command.dog table (`/dogetcg/api/match`, same process as ÐBox).
+- After the set is inscribed, a seat brings the cards in that wallet. Until then both seats use the 18-card practice deck.
+- Lanes are public. The other seat's hand stays hidden.
 - Each player starts at 20 Core and 0 Signal.
 - Win by reducing the other Core to 0, or by reaching 8 Signal, at the end of the action.
 - If both would win on the same check, the match is a draw.
 - After 60 plies the match is a draw.
 - A player who must draw from an empty deck loses.
-- No inscription, print number, or rarity changes these numbers.
+- A print does not add attack. The card you own is the card you play. Trading is how you get a card you did not pull.
 
 ## Resources
 

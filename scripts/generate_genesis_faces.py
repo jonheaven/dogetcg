@@ -28,45 +28,45 @@ DROK = STACK / "drok"
 OUT = STACK / "doginals.lol" / "public" / "drops" / "dogetcg" / "cards"
 
 STYLE = (
-    "Premium dark-fantasy trading-card illustration of one unmistakable Shiba Inu, "
-    "natural muzzle, knowing eyes, etched metal, realistic fur, cross-hatched ink, "
-    "warm gold highlights on a near-black ground. Full character, three-quarter pose, "
-    "centered, no environment, no floor, no text, no letters, no numbers, no logo, "
+    "Bright playful cartoon of one chubby Shiba Inu, big sparkling eyes, soft cel shading, "
+    "chunky friendly shapes, sunny candy colors, a joke you could put on a sticker. "
+    "Plain warm cream background. Full character, centered, no armor, no weapons, no blood, "
+    "no dark fantasy, no engraved metal, no text, no letters, no numbers, no logo, "
     "no watermark, no card frame, no extra limbs."
 )
 
 # id, name, one visual beat. Names match doginals.lol genesis.ts.
 FACES = [
-    ("DOGE-01", "Yard Pup", "a small shiba pup in a sun-faded bandana, mid-bound, ears flying"),
-    ("DOGE-02", "Much Wow", "a shiba struck with delight, gold sparks in the fur, mouth open in a wow"),
-    ("DOGE-03", "Mail Run", "a shiba courier with a leather satchel and a rolled letter in its teeth"),
-    ("DOGE-04", "Tip Jar", "a shiba beside a dented gold coin jar, one paw on the rim"),
-    ("DOGE-05", "Moonwalk", "a shiba in a silver moon-cloak, one paw lifted, lunar dust at the heels"),
-    ("DOGE-06", "Kennel Guard", "a stocky shiba in a studded collar and a short watch-spear"),
-    ("DOGE-07", "Chain Mascot", "a shiba wearing a heavy chain like a sash, proud and still"),
-    ("DOGE-08", "Alpha Howl", "a large shiba mid-howl, mane of fur backlit in gold"),
-    ("DOGE-09", "Dust Toss", "a sly shiba flinging a fan of glittering dust from one paw"),
-    ("DOGE-10", "Fee Bump", "a shiba clerk stacking gold coins higher with a sly grin"),
-    ("DOGE-11", "Such Magic", "a shiba magician in a worn cape, a gold sigil hovering over one paw"),
-    ("DOGE-12", "Replay", "a shiba turning an hourglass, the same pose echoed faintly behind it"),
-    ("DOGE-13", "Diamond Paws", "a shiba with crystalline claws catching gold light"),
-    ("DOGE-14", "Block Party", "a festive shiba in a paper crown, confetti of gold flakes"),
-    ("DOGE-15", "Paper Wallet", "a shiba guardian clutching a folded parchment wallet to its chest"),
-    ("DOGE-16", "Cold Nose", "a shiba in a frost-rimed scarf, breath visible, calm eyes"),
-    ("DOGE-17", "Confirmations", "a shiba scribe pressing a wax seal, rings of gold behind it"),
-    ("DOGE-18", "Hashrate", "a shiba engineer with brass goggles and a humming gear on its back"),
-    ("DOGE-19", "Seal of Wow", "a shiba knight presenting a round gold seal stamped with a paw"),
-    ("DOGE-20", "Doge Shield", "a shiba behind a tall kite shield etched with a shiba face"),
-    ("DOGE-21", "Kabosu Coin", "a shiba holding up a large gold coin stamped with its own face"),
-    ("DOGE-22", "Genesis Bone", "a shiba with an ancient gold-inlaid bone across its paws"),
-    ("DOGE-23", "Shibe Scroll", "a shiba unrolling a long blank parchment, ink brush in the other paw"),
-    ("DOGE-24", "Lucky Koinu", "a small charm-like shiba with a gold bell collar, lucky and bright"),
-    ("DOGE-25", "First Block", "a shiba standing on a single carved stone block, solemn"),
-    ("DOGE-26", "Crown of Ð", "a shiba wearing a heavy gold crown, regal and still"),
-    ("DOGE-27", "Satoshi's Shibe", "a mythic shiba in a traveler's coat, a single gold coin in its paw, dawn light"),
-    ("DOGE-28", "To the Moon", "a shiba leaping upward, a crescent moon behind its shoulders"),
-    ("DOGE-29", "Much Forever", "an ancient shiba with silvered muzzle and a calm, endless stare"),
-    ("DOGE-30", "Wow Genesis", "a shiba at the start of things, gold light breaking behind a dark silhouette"),
+    ("DOGE-01", "Yard Pup", "a tiny shiba pup in a red bandana, bouncing, tongue out, ears flapping"),
+    ("DOGE-02", "Much Wow", "a shiba with huge sparkling eyes and a delighted open-mouth smile, confetti in the air"),
+    ("DOGE-03", "Mail Run", "a shiba mailman in a cute blue cap, letter held gently in the mouth, trotting"),
+    ("DOGE-04", "Tip Jar", "a shiba hugging a glass tip jar stuffed with coins, proud little grin"),
+    ("DOGE-05", "Moonwalk", "a shiba in sunglasses sliding backward, one paw up, tiny moon behind"),
+    ("DOGE-06", "Kennel Guard", "a round shiba in an oversized yellow raincoat, whistle on a string, very serious about a very small job"),
+    ("DOGE-07", "Chain Mascot", "a shiba wearing a chunky plastic gold chain, posing like a mascot, big smile"),
+    ("DOGE-08", "Alpha Howl", "a fluffy shiba howling at a bright cartoon moon, cheeks puffed, happy not scary"),
+    ("DOGE-09", "Dust Toss", "a sneaky shiba flinging a puff of glitter, winking"),
+    ("DOGE-10", "Fee Bump", "a shiba accountant with round glasses, stacking three fat coins, smug"),
+    ("DOGE-11", "Such Magic", "a shiba in a starry wizard hat two sizes too big, a sparkle popping from a paw"),
+    ("DOGE-12", "Replay", "a shiba hitting a big red replay button with a paw, motion lines, goofy focus"),
+    ("DOGE-13", "Diamond Paws", "a shiba showing off paws covered in silly giant diamond stickers, sparkling"),
+    ("DOGE-14", "Block Party", "a shiba in a party hat, balloon tied to the tail, confetti everywhere"),
+    ("DOGE-15", "Paper Wallet", "a shiba carefully holding a folded paper wallet like a treasure, tongue peeking out"),
+    ("DOGE-16", "Cold Nose", "a shiba in a puffy winter hat and scarf, nose pink, tiny snowflake on the head"),
+    ("DOGE-17", "Confirmations", "a shiba stamping a paper with a paw-shaped stamp, satisfied nod"),
+    ("DOGE-18", "Hashrate", "a shiba in chunky goggles and a tiny propeller beanie, a friendly spinning fan on the back"),
+    ("DOGE-19", "Seal of Wow", "a shiba presenting a big round wax seal with a paw print, ceremonial and cute"),
+    ("DOGE-20", "Doge Shield", "a shiba peeking over a round wooden shield painted with a smiling shiba face"),
+    ("DOGE-21", "Kabosu Coin", "a shiba holding up a giant coin with its own smiling face on it"),
+    ("DOGE-22", "Genesis Bone", "a shiba with a comically huge shiny bone, eyes closed in bliss"),
+    ("DOGE-23", "Shibe Scroll", "a shiba unrolling a long blank scroll, ink on the nose"),
+    ("DOGE-24", "Lucky Koinu", "a tiny charm shiba with a gold bell, sitting like a lucky statue, one eye winking"),
+    ("DOGE-25", "First Block", "a shiba sitting on one oversized toy building block, king of the carpet"),
+    ("DOGE-26", "Crown of Ð", "a shiba wearing a crooked paper crown, trying to look royal and failing cutely"),
+    ("DOGE-27", "Satoshi's Shibe", "a shiba in a cozy traveler hoodie, one coin on the nose, sunrise colors"),
+    ("DOGE-28", "To the Moon", "a shiba in a fishbowl space helmet, floating, paws up, big smile"),
+    ("DOGE-29", "Much Forever", "a silver-muzzled shiba in a rocking chair, blanket, content smile, still a cartoon"),
+    ("DOGE-30", "Wow Genesis", "a shiba popping out of a gift box, party sparkles, the first wow"),
 ]
 
 
