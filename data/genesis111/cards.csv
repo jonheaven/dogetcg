@@ -1,0 +1,112 @@
+﻿number,id,name,faction,type,cost,attack,hp,rarity,rules_text,art_brief
+1,G111-P-001,Kabosu,Ironclad,Doge,3,2,5,Legendary,"Sun Nap. On deploy, heal 2 from an allied Doge, including this one.",golden Shiba with classic side-eye and crossed paws in sunlit ginkgo courtyard
+2,G111-P-002,Faucet Pup,Ironclad,Doge,1,1,2,Common,"On deploy, heal your Core by 1.",round puppy catching a gold coin from a green brass faucet
+3,G111-P-003,Node Gatekeeper,Ironclad,Doge,1,1,3,Common,"On deploy, you may give this Doge Shield.",small brindle guard puppy at a wooden node relay gate
+4,G111-P-004,Paper Wallet Shibe,Ironclad,Doge,2,2,3,Common,"On deploy, give another allied Doge Shield.",white Shiba archivist protecting a folded paper wallet under a straw cape
+5,G111-P-005,Full Node,Ironclad,Doge,2,1,4,Common,"At the start of your turn, heal 1 from this Doge.",squat sesame Shiba tending a wall of lantern-like full nodes
+6,G111-P-006,Cold Storage Doge,Ironclad,Doge,3,2,5,Uncommon,"On deploy, give this Doge Shield.",pale gray Shiba guarding a frozen vault deep in a glacial cave
+7,G111-P-007,Multisig Brothers,Ironclad,Doge,3,3,3,Uncommon,"On deploy, if you control another Doge, give this Doge Shield.",two Shiba brothers exchanging twin brass keys across a wooden bridge
+8,G111-P-008,Chainwarden,Ironclad,Doge,4,3,5,Uncommon,"After this Doge Secures, heal 2 from your Core.",stoic armored dog on an amber city wall with linked crest plates
+9,G111-P-009,Finality Watchdog,Ironclad,Doge,5,4,6,Rare,"On deploy, give each other allied Doge Shield.",huge white Shiba beneath six golden confirmation lanterns
+10,G111-P-010,The Last Validator,Ironclad,Doge,6,5,7,Legendary,"On deploy, heal 3 from your Core. Give this Doge Shield.",old black Shiba in lacquer armor at golden checkpoint in blizzard
+11,G111-P-011,Mempool Audit,Ironclad,Tactic,1,,,Common,Look at the top 3 cards of your deck. Put them back in any order. Draw a card.,paper ledger showing blue seal marks beside tea and ink
+12,G111-P-012,Confirmations,Ironclad,Tactic,2,,,Common,Heal 2 from an allied Doge. Give it Shield.,six lanterns lighting in sequence along a stone passage
+13,G111-P-013,Reject Double Spend,Ironclad,Tactic,3,,,Uncommon,"Deal 3 damage to an enemy Doge. If it is defeated, heal 2 from your Core.",two matching paper slips one stamped in red at customs booth
+14,G111-P-014,Safe Deposit,Ironclad,Tactic,2,,,Uncommon,Return an allied Doge to your hand. Draw a card.,coin dropping into a cedar safe with a paw-shaped opening
+15,G111-P-015,Paper Wallet,Ironclad,Item,2,,,Common,"At the start of your turn, heal 1 from your Core.",rice-paper folded wallet with red Shiba seal on wooden desk
+16,G111-P-016,Hardware Wallet,Ironclad,Item,3,,,Rare,"The first time each turn an allied Doge is deployed, give it Shield.",miniature brass vault with a black frame and a single jade light
+17,G111-P-017,Zero-Conf,Outriders,Doge,1,2,1,Common,Rush.,red pup sprinting from a red-lantern payment stall
+18,G111-P-018,Tip Jar Bandit,Outriders,Doge,1,2,2,Common,"When defeated, heal 1 from your Core.",impish puppy sneaking a coin into a community jar
+19,G111-P-019,Priority Post,Outriders,Doge,2,2,2,Common,Rush.,brown courier pup launching from a bright hillside postbox
+20,G111-P-020,Penny Tipper,Outriders,Doge,2,3,2,Common,"After this Doge hits the enemy Core, draw a card, then discard a card.",cheerful gold Shiba flipping a coin over a festival counter
+21,G111-P-021,Fee Scout,Outriders,Doge,2,2,3,Uncommon,"On deploy, deal 1 damage to an enemy Doge.",small cinnamon Shiba with red goggles checking a relay tower
+22,G111-P-022,Moon Cart,Outriders,Item,2,,,Uncommon,"The first time each turn an allied Doge moves, it gains +1 ATK for its next attack this turn.",red wood festival race cart with moon-shaped headlights
+23,G111-P-023,Fee Bump,Outriders,Doge,3,3,3,Common,Rush.,brindle street sprinter with twin yellow payment ribbons
+24,G111-P-024,Double-Tip Shibe,Outriders,Doge,4,4,4,Uncommon,"On deploy, deal 1 damage to an enemy Doge and 1 to its Core.",golden show-off dealing two coin tips over a noodle-bar counter
+25,G111-P-025,Redline Doge,Outriders,Doge,5,5,5,Rare,Rush.,"helmeted Shiba in a crimson race car, cherry blossoms flying"
+26,G111-P-026,Rocket Pit Boss,Outriders,Doge,6,6,6,Legendary,"On deploy, deal 2 damage to the enemy Core.",gray Shiba with race scarf under a red gantry lit by pyrotechnics
+27,G111-P-027,Kitsunebi Doge,Outriders,Doge,3,3,3,Legendary,"Lantern Hop. On deploy, you may move another allied Doge to an adjacent open allied slot.",black and tan Shiba racing up shrine steps with floating turquoise foxfire
+28,G111-P-028,Express Relay,Outriders,Tactic,1,,,Common,An allied Doge gains +2 ATK for its next attack this turn.,red cloth streamer crossing a bridge ahead of a sealed letter
+29,G111-P-029,Payment Ping,Outriders,Tactic,1,,,Common,Deal 1 damage to an enemy Doge. Draw a card.,red pulse hopping between two little node lanterns
+30,G111-P-030,Fast Settlement,Outriders,Tactic,2,,,Uncommon,"Deal 2 damage to an enemy Doge. If it is defeated, deal 1 damage to its Core.",marked gold coin landing in a brass merchant till
+31,G111-P-031,Pay the Toll,Outriders,Tactic,3,,,Uncommon,Deal 4 damage to an enemy Doge.,several coins spilling through a scarlet gate slot
+32,G111-P-032,Relay Beacon,Outriders,Item,2,,,Uncommon,The first allied Doge each turn that attacks the enemy Core gains +1 ATK for that attack.,scarlet signal tower firing a narrow stripe of light
+33,G111-P-033,Relay Runner,Ghostline,Doge,1,1,2,Common,"On deploy, you may move another allied Doge to an adjacent open allied slot.",wiry black and tan Shiba courier on rainy tile rooftops with sealed letter
+34,G111-P-034,Torii Router,Ghostline,Doge,1,1,2,Common,"On deploy, look at the top 2 cards of your deck. Put them back in any order.",tiny blue-scarf Shiba pointing at a branching path of torii gates
+35,G111-P-035,Change Address,Ghostline,Doge,2,2,3,Common,"On deploy, you may move this Doge to an adjacent open allied slot.",cream Shiba mail carrier swapping a paper address tag at crossroads
+36,G111-P-036,Ghost Runner,Ghostline,Doge,2,2,2,Uncommon,Phase.,blue-black Shiba almost hidden by a rushing cyan mist ribbon
+37,G111-P-037,Block Explorer,Ghostline,Doge,3,2,4,Common,"On deploy, draw a card, then discard a card.",owl-eyed sesame Shiba holding a glass viewer over a model block town
+38,G111-P-038,Mempool Courier,Ghostline,Doge,3,3,3,Common,"When this Doge moves, give it Shield.",sleek Shiba courier chasing glowing letters through a midnight market
+39,G111-P-039,WatchDoge Scout,Ghostline,Doge,4,3,4,Uncommon,"Phase. After this Doge Secures, draw a card.",nervous blue Shiba with telescope at the top of a paper roof
+40,G111-P-040,Nullshade,Ghostline,Doge,4,4,4,Uncommon,"On deploy, move an enemy Doge to an adjacent open enemy slot, if able.",black Shiba in a trailing ink cloak beside a warped lane marker
+41,G111-P-041,Silent Relay,Ghostline,Doge,5,4,6,Rare,"Phase. When this Doge moves, heal 1 from it.",white Shiba balancing on wet rooftop cable under cold moon
+42,G111-P-042,The Watcher,Ghostline,Doge,6,5,6,Legendary,"On deploy, you may move up to two other allied Doges once each to adjacent open allied slots.",dark blue elder Shiba overlooking blinking nodes from observatory tower
+43,G111-P-043,Change Output,Ghostline,Tactic,1,,,Common,Move an allied Doge to an adjacent open allied slot.,an envelope changing direction at a blue forked sign
+44,G111-P-044,Reroute,Ghostline,Tactic,2,,,Common,Move an enemy Doge to an adjacent open enemy slot.,two blue arrows painted toward an empty alley beside rainwater
+45,G111-P-045,Ghost Transaction,Ghostline,Tactic,2,,,Uncommon,"Return an allied Doge to your hand. An enemy Doge in its former lane takes 2 damage, if present.",a purple paper seal dissolving into blue haze above a tiled road
+46,G111-P-046,Private Relay,Ghostline,Tactic,2,,,Uncommon,Move an allied Doge to an adjacent open allied slot. Give it Shield.,teal packet passing in secret beneath a covered bridge
+47,G111-P-047,Torii Switchboard,Ghostline,Item,2,,,Uncommon,"The first time each turn an allied Doge moves, heal 1 from it.",wooden board of ceramic network switches under blue cords
+48,G111-P-048,Explorer Lens,Ghostline,Item,2,,,Rare,"At the start of your turn, look at the top card of your deck. You may put it on the bottom.",indigo glass lens above a tiny miniature block model
+49,G111-P-049,Dust Collector,Ashbound,Doge,1,1,2,Common,"When defeated, deal 1 damage to the enemy Core.",small scrappy Shiba sweeping coin dust into an ash bucket
+50,G111-P-050,Fee Sifter,Ashbound,Doge,1,2,2,Common,"When defeated, you may discard a card. If you do, draw a card.",soot-covered Shiba puppy sieving metal flakes above embers
+51,G111-P-051,Ash Collector,Ashbound,Doge,2,2,3,Common,"On deploy, discard the top card of your deck if it has a card.",patchy brown Shiba carrying burnt transaction scraps
+52,G111-P-052,Dead Output,Ashbound,Doge,2,3,2,Uncommon,"When defeated, deal 1 damage to the enemy Doge in this lane, if present.",charcoal Shiba with red ember eyes scrambling from a broken furnace
+53,G111-P-053,Cinder Fang,Ashbound,Doge,3,4,2,Common,"On deploy, you may discard a card. If you do, deal 2 damage to an enemy Doge.",rust-red Shiba holding a glowing shard in front of a brick kiln
+54,G111-P-054,UTXO Scavenger,Ashbound,Doge,3,2,4,Common,"On deploy, you may return a Doge of cost 1 from your discard pile to your hand.",dusty white Shiba gathering spent gold discs amid old stone outputs
+55,G111-P-055,Burn Warden,Ashbound,Doge,4,3,5,Uncommon,"The first time each turn another allied Doge is defeated, deal 1 damage to the enemy Core.",somber black Shiba guarding a red inscription incinerator
+56,G111-P-056,Reorg Hound,Ashbound,Doge,4,4,4,Uncommon,"When defeated, you may return a Doge of cost 2 or less from your discard pile to your hand.",brown Shiba scrambling over a collapsed fork in a stone chain
+57,G111-P-057,The Reclaimer,Ashbound,Doge,5,4,5,Rare,"On deploy, you may return a Doge of cost 3 or less from your discard pile to your hand.",scarred brindle Shiba in an ash cloak reclaiming a brass seal from ruins
+58,G111-P-058,BurneÐ Custodian,Ashbound,Doge,6,5,7,Legendary,"On deploy, deal 3 damage to an enemy Doge if your discard pile has at least 3 cards.",solemn ash-colored Shiba beneath a massive crimson burn furnace
+59,G111-P-059,Spend the Change,Ashbound,Tactic,1,,,Common,"Discard a card. If you do, draw two cards.",tiny chips of gold set aside on a market desk near a broken seal
+60,G111-P-060,Salvage Output,Ashbound,Tactic,2,,,Common,Return a Doge of cost 2 or less from your discard pile to your hand. Heal 1 from your Core.,iron tongs lifting an old embossed disk from dusty brick
+61,G111-P-061,Burn Address,Ashbound,Tactic,3,,,Uncommon,"Deal 4 damage to an enemy Doge. If it is defeated, put it on the bottom of its owner's deck instead of discarding it.",crimson transfer paper crumbling into ash above an iron bowl
+62,G111-P-062,Chain Reorg,Ashbound,Tactic,5,,,Rare,Return each Doge of cost 2 or less in play to its owner's hand.,short golden chain splitting into two paths over an ember valley
+63,G111-P-063,Ash Sieve,Ashbound,Item,2,,,Uncommon,"The first time each turn you discard a card from your hand due to a card effect, heal 1 from your Core.",rough iron sieve with luminous red gold dust
+64,G111-P-064,Reclaimer's Tongs,Ashbound,Item,2,,,Rare,"The first time each turn you return a Doge from your discard pile to your hand, deal 1 damage to the enemy Core.",ornate gold and black furnace tongs on a charred table
+65,G111-P-065,Inscription Pup,Runekeepers,Doge,1,1,2,Common,"On deploy, look at the top card of your deck. You may put it on the bottom.",cream puppy stamping a paper scroll with a small violet paw seal
+66,G111-P-066,Hexscribe,Runekeepers,Doge,1,1,3,Common,"On deploy, look at the top 2 cards of your deck. Put them back in any order.",sleepy purple-robed Shiba at a low writing desk of hex patterns
+67,G111-P-067,Dogenal Binder,Runekeepers,Doge,2,2,3,Common,"On deploy, you may reveal the top card of your deck. If it is an Item, put it into your hand.",tan Shiba artisan binding tiny tapestries with purple cord
+68,G111-P-068,Block Printer,Runekeepers,Doge,2,2,3,Common,"On deploy, you may put a card from your hand on the bottom of your deck. If you do, draw a card.",pressed lavender woodblock printed by a round hoary Shiba
+69,G111-P-069,Community Tipper,Wildpack,Doge,2,2,3,Common,"After this Doge Secures, heal 1 from your Core.",friendly black and tan Shiba carrying a shared pouch of coins
+70,G111-P-070,The Archivist,Runekeepers,Doge,3,2,4,Uncommon,"On deploy, look at the top 3 cards of your deck. Put them back in any order, then draw a card.",elder white Shiba archivist among shelves of glowing blocks
+71,G111-P-071,Keeper of 420,Runekeepers,Doge,3,3,4,Common,"On deploy, heal 2 from your Core if you control an Item.",unflappable golden Shiba chanting under a violet lantern clock
+72,G111-P-072,Witness Zero,Runekeepers,Doge,4,3,5,Uncommon,"On deploy, give this Doge Shield if you control an Item.",quiet silver Shiba protecting a blank witness seal under violet umbrellas
+73,G111-P-073,Oracle of the Next Block,Runekeepers,Doge,5,4,5,Rare,"On deploy, look at the top 3 cards of your deck. Put one in your hand and the rest on the bottom in either order.",white and lilac Shiba peering through a cube-shaped moon observatory
+74,G111-P-074,Inscription Master,Runekeepers,Doge,5,4,6,Rare,"On deploy, draw a card. If you control an Item, heal 2 from your Core.",venerable Shiba engraver in violet silk crafting a small block in candlelight
+75,G111-P-075,Read the Header,Runekeepers,Tactic,1,,,Common,Look at the top 3 cards of your deck. Put one on the bottom and the other two back in either order. Draw a card.,open lavender scroll with a small glowing block header
+76,G111-P-076,Stamp the Block,Runekeepers,Tactic,2,,,Common,"Deal 2 damage to an enemy Doge. If you control an Item, deal 3 instead.",purple stamp crest sending a gold shockwave from a carved block
+77,G111-P-077,Recursive Scroll,Runekeepers,Tactic,2,,,Uncommon,"Put a Tactic from your discard pile on top of your deck, if able. Draw a card.",purple scroll with a miniature drawing of itself repeating inward
+78,G111-P-078,Delegate Seal,Runekeepers,Tactic,3,,,Uncommon,You may put an Item of cost 3 or less from your hand into play. Draw a card.,ornate violet seal pressed onto paired ivory scrolls
+79,G111-P-079,Dogenal Press,Runekeepers,Item,2,,,Uncommon,"The first time each turn you play a Tactic, heal 1 from your Core.",inked purple hand press with a raised coin-shaped Doge die
+80,G111-P-080,Block Atlas,Runekeepers,Item,3,,,Rare,"At the start of your turn, draw a card, then put a card from your hand on the bottom of your deck.",atlas of glowing violet blocks in an open lacquer box
+81,G111-P-081,Kindness Pup,Wildpack,Doge,1,1,2,Common,"On deploy, heal 1 from another allied Doge.",bright little Shiba puppy offering a flower to a tired dog
+82,G111-P-082,Much Wow Pup,Wildpack,Doge,1,2,2,Common,,red Shiba puppy with wide eyes and smile in windy clover field
+83,G111-P-083,Packrunner,Wildpack,Doge,2,2,3,Common,"On deploy, give another allied Doge Shield if you control two other Doges.",brown Shiba pup running between friends on a green hill
+84,G111-P-084,Thunder General,Runekeepers,Doge,6,5,7,Legendary,"Sky Splitter. On deploy, deal 2 damage to each enemy Doge.",sturdy cream Shiba with thick purple rope collar on taiko drum in thunderstorm
+85,G111-P-085,Feral 69,Wildpack,Doge,3,3,4,Uncommon,This Doge has +1 ATK while you control two other Doges.,green scarf Shiba bard in a patch of waving pennants
+86,G111-P-086,Such Teamwork,Wildpack,Doge,3,2,5,Common,"On deploy, heal 1 from each other allied Doge.",two cream Shibas working a rice field irrigation wheel
+87,G111-P-087,Bonebreaker,Wildpack,Doge,4,4,4,Uncommon,"After this Doge defeats an enemy Doge by attacking, heal 2 from this Doge if another allied Doge is in play.",tall brindle Shiba with ceremonial bone cudgel and mossy stones
+88,G111-P-088,Moonbound Pack,Wildpack,Doge,4,3,5,Uncommon,"On deploy, you may move another allied Doge to an adjacent open allied slot and give it Shield.",three Shibas cresting a hill against a pale green moon
+89,G111-P-089,Last Howl,Wildpack,Doge,5,4,5,Rare,"When defeated, give each other allied Doge Shield.",graying cream Shiba howling in wind among crisscrossed green flags
+90,G111-P-090,Alpha of the Commons,Wildpack,Doge,6,5,6,Legendary,"On deploy, other allied Doges gain +1 ATK for their next attack this turn.",large proud Shiba leading a mixed-color pack beneath garden banners
+91,G111-P-091,Do Only Good,Wildpack,Tactic,1,,,Common,Heal 2 from an allied Doge or from your Core.,a bandaged paw and a small gold tip at a street aid hut
+92,G111-P-092,Tip the Next Shibe,Wildpack,Tactic,1,,,Common,"Give an allied Doge Shield. If you control three Doges, heal 1 from your Core.",a gold coin passing from one paw to another under green cloth
+93,G111-P-093,Pack Rally,Wildpack,Tactic,2,,,Uncommon,Up to two allied Doges each gain +1 ATK for their next attack this turn.,green pennants and coin tassels snapping above a pack meeting
+94,G111-P-094,Much Momentum,Wildpack,Tactic,3,,,Uncommon,"Draw one card for each allied Doge, up to three cards.",many paw trails converging on a green public square
+95,G111-P-095,Community Tip Jar,Wildpack,Item,2,,,Uncommon,"The first time each turn an allied Doge Secures, heal 1 from your Core.",glass jar of DOGE coins under small green festival flags
+96,G111-P-096,Pack Banner,Wildpack,Item,3,,,Rare,"While you control three Doges, they each have +1 ATK.",a green silk banner with three embroidered pawprints
+97,G111-P-097,Genesis Miner,Neutral,Doge,1,1,2,Common,"On deploy, you may look at the top card of your deck.",broad gray Shiba headlamp miner swinging a hand pick in a Scrypt cavern
+98,G111-P-098,Scrypt Sledder,Neutral,Doge,2,2,3,Common,,white Shiba pulling a miner sled through snow
+99,G111-P-099,Moon Poser,Neutral,Doge,2,1,4,Common,"After this Doge Secures, heal 1 from this Doge.",cream Shiba posing for a portrait against a crescent moon
+100,G111-P-100,Shibe Shopkeeper,Neutral,Doge,2,2,2,Common,"On deploy, draw a card, then discard a card.",tan merchant Shiba lighting a corner shop of trinkets
+101,G111-P-101,AuxPoW Twins,Neutral,Doge,3,3,4,Uncommon,,a gray Shiba and tawny Shiba pulling adjacent mining wagons inside one tunnel
+102,G111-P-102,Doginal Dog,Neutral,Doge,3,3,3,Uncommon,"On deploy, heal 1 from your Core. If you control an Item, heal 2 instead.",tan Shiba posing against an engraved mosaic of its own portrait
+103,G111-P-103,Hashrate Hound,Neutral,Doge,4,4,4,Uncommon,,black houndlike Shiba inside a warm humming mining hall
+104,G111-P-104,Lunar Merchant,Neutral,Doge,5,4,6,Rare,"On deploy, you may discard an Item you control. If you do, draw two cards.",stocky red Shiba selling brass lunar souvenirs beneath a lantern canopy
+105,G111-P-105,Ðoge of the Moon,Neutral,Doge,6,5,6,Legendary,"On deploy, give this Doge Shield. You may move it to any open allied slot.",golden Shiba in antique astronaut helmet sitting among moon dust and coins
+106,G111-P-106,Faucet Drop,Neutral,Tactic,1,,,Common,Heal 2 from your Core.,a single gold coin falling from a tiny brass faucet into a bowl
+107,G111-P-107,Shift the Route,Neutral,Tactic,1,,,Common,Move an allied Doge to an adjacent open allied slot.,folded route chart crossing three ink lanes
+108,G111-P-108,Loose Change,Neutral,Tactic,1,,,Common,Deal 1 damage to an enemy Doge. Draw a card.,small coin dropping between floorboards in a quiet house
+109,G111-P-109,Scrypt Spark,Neutral,Tactic,2,,,Common,Deal 2 damage to an enemy Doge.,gold sparks leaping off a pick in a copper tunnel
+110,G111-P-110,Market Day,Neutral,Tactic,2,,,Uncommon,"Draw two cards, then discard a card.",a busy outdoor Shiba trading market with lanterns and coin trays
+111,G111-P-111,Final Confirmation,Neutral,Tactic,3,,,Uncommon,"Deal 3 damage to an enemy Doge. If it is defeated, heal 1 from your Core.",a final glowing confirmation lantern raised at a gate

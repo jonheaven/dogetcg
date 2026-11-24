@@ -1,0 +1,7 @@
+DOGE TCG / Genesis 111 / Tabletop playtest v0.1
+
+cards/ contains one 750 x 1050 PNG per card. illustrations/ contains the draft art crops.
+cards.json and cards.csv contain all 111 definitions. rules_text is tabletop text.
+decks.json contains six verified legal decklists. ruleset.json contains match constants.
+rules.md specifies gameplay. research.md records comparative design choices.
+The G111-P IDs identify this tabletop playtest branch.

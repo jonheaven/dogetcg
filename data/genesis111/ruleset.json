@@ -1,0 +1,17 @@
+{
+  "id": "genesis111-tabletop-0.1",
+  "game": "DOGE TCG",
+  "deck_size": 30,
+  "starting_hand": 5,
+  "starting_core": 20,
+  "signal_target": 8,
+  "charge_cap": 8,
+  "lane_count": 3,
+  "slots_per_side_per_lane": 1,
+  "item_slots": 2,
+  "max_neutrals": 6,
+  "max_copies": 2,
+  "max_legendary_copies": 1,
+  "turn_cap": 60,
+  "max_secures_per_turn": 2
+}

@@ -1,0 +1,38 @@
+{
+  "note": "Collector editions point at a gameplay card. 001/111 stays the set number. The copy serial is separate and is assigned at mint. Supply and pull odds stay unset until the mint is designed.",
+  "editions": [
+    {
+      "id": "G111-E-001",
+      "cardId": "G111-P-001",
+      "number": 1,
+      "title": "Kabosu — Genesis Halo",
+      "role": "grail",
+      "finish": "Black lacquer, gold ginkgo leaves, and a prismatic halo.",
+      "image": "chase/001-genesis-halo.jpg",
+      "supply": null,
+      "odds": null
+    },
+    {
+      "id": "G111-E-027",
+      "cardId": "G111-P-027",
+      "number": 27,
+      "title": "Kitsunebi Doge — Midnight Foxfire",
+      "role": "chase",
+      "finish": "Deep indigo with turquoise foil flames and glowing vermilion lanterns.",
+      "image": null,
+      "supply": null,
+      "odds": null
+    },
+    {
+      "id": "G111-E-084",
+      "cardId": "G111-P-084",
+      "number": 84,
+      "title": "Thunder General — Violet Thunder",
+      "role": "chase",
+      "finish": "Violet lightning foil behind the taiko drum, painted from a low angle.",
+      "image": null,
+      "supply": null,
+      "odds": null
+    }
+  ]
+}
