@@ -4,7 +4,7 @@ The match on `doginals.lol/drops/dogetcg` plays `genesis111-tabletop-0.1`.
 
 Normative rules: `data/genesis111/rules.md`. Cards, decks, and the effect map live beside that file. The site engine is `doginals.lol/src/lib/drops/dogetcg/genesis111.ts`.
 
-You win by reaching 8 Signal or by bringing the other 20-point Core to 0. Three lanes, one Doge per side per lane. A ready Doge can attack, move one lane, or Secure an open lane. Charge refills each turn, up to 8. Decks are 30 cards.
+You win by reaching 8 Signal or by bringing the other 20-point Core to 0. Three lanes, one Doge per side per lane. A ready Doge can attack, move one lane, or Secure an open lane. Maximum Charge starts at 0 and grows by 1 at the start of each of your turns, capped at 8, then available Charge refills to that maximum. Decks are 30 cards.
 
 This is a short Shiba game. Leave other Dogecoin card games alone. Do not import their life total, lane count, class names, keyword list, or combat gate.
 
